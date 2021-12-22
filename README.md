@@ -1,6 +1,6 @@
 ### Hi there, I'm Nriver👋
 <p align="center">
-    <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@Nriver?theme=rule34"></a><br>
+    <!-- <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@Nriver?theme=rule34"></a><br> -->
     <img src="https://github-readme-stats.vercel.app/api?username=Nriver&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nriver&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> -->
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Nriver&theme=dracula">
