@@ -3,6 +3,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nriver&show_icons=true&theme=buefy&include_all_commits=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nriver&theme=buefy" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=Nriver)
+
 <!--
 **Nriver/Nriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
