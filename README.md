@@ -1,8 +1,6 @@
 ### Hi there, I'm Nriver👋
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Nriver&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nriver&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> -->
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Nriver&theme=dracula">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nriver&theme=monokai">
 </p>
 
